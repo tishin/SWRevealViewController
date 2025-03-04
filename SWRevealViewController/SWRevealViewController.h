@@ -328,7 +328,7 @@ typedef enum
 } SWRevealControllerOperation;
 
 
-@protocol SWRevealViewControllerDelegate<NSObject>
+NS_SWIFT_UI_ACTOR @protocol SWRevealViewControllerDelegate<NSObject>
 
 @optional
 
